@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.30.3)
+project(cpp)
+include_directories(libraries/GLFW/include)
+add_executable(cpp main.cpp)
+target_link_libraries(cpp libraries/GLFW/lib-mingw-w64/libglfw3.a)
