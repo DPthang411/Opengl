@@ -59,7 +59,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/MyPC/Documents/Opengl/libraries/GLFW/include"
+					"path" : "C:/Users/MyPC/Documents/Opengl/libraries/glfw3/include"
 				}
 			],
 			"language" : "CXX",
@@ -84,7 +84,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-llibraries/GLFW/lib-mingw-w64/libglfw3.a",
+				"fragment" : "-llibraries/glfw3/lib-mingw-w64/libglfw3.a",
 				"role" : "libraries"
 			},
 			{
