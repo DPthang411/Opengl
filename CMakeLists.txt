@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.30.3)
 project(cpp)
-include_directories(libraries/glfw3/include)
+include_directories( C:/Users/MyPC/Documents/Opengl/libraries/glfw3/include)
 add_executable(cpp main.cpp)
-target_link_libraries(cpp libraries/glfw3/lib-mingw-w64/libglfw3.a)
+target_link_libraries(cpp  C:/Users/MyPC/Documents/Opengl/libraries/glfw3/lib-mingw-w64/libglfw3.a)

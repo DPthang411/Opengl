@@ -92,6 +92,7 @@ cpp_EXTERNAL_OBJECTS =
 
 cpp.exe: CMakeFiles/cpp.dir/main.cpp.obj
 cpp.exe: CMakeFiles/cpp.dir/build.make
+cpp.exe: C:/Users/MyPC/Documents/Opengl/libraries/glfw3/lib-mingw-w64/libglfw3.a
 cpp.exe: CMakeFiles/cpp.dir/linkLibs.rsp
 cpp.exe: CMakeFiles/cpp.dir/objects1.rsp
 cpp.exe: CMakeFiles/cpp.dir/link.txt

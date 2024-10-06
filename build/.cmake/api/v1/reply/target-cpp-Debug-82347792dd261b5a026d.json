@@ -84,7 +84,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-llibraries/glfw3/lib-mingw-w64/libglfw3.a",
+				"fragment" : "C:\\Users\\MyPC\\Documents\\Opengl\\libraries\\glfw3\\lib-mingw-w64\\libglfw3.a",
 				"role" : "libraries"
 			},
 			{

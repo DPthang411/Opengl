@@ -1,1 +1,1 @@
- -llibraries/glfw3/lib-mingw-w64/libglfw3.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "C:/Users/MyPC/Documents/Opengl/libraries/glfw3/lib-mingw-w64/libglfw3.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
